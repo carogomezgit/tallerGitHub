@@ -1,1 +1,3 @@
 # tallerGitHub
+
+Autor: Carolina Gomez
